@@ -1,3 +1,5 @@
+//Edgar Sardina Tejerina comi 5
+//Video explicativo: https://youtu.be/6LhbWgYiiHA
 let estado;
 let sonido;
 let textos = [];
@@ -28,7 +30,7 @@ function draw() {
     sonido.stop();
   } else if (estado === 21) {
     pantallaCreditos();  // Creditos
-  } else if (estado >= 1 && estado <= 21) {
+  } else if (estado >= 1 && estado <= 20) {
     pantallaHistoria(textos[estado]);  // Historia
   }
 }
@@ -45,7 +47,7 @@ function mousePressed() {
     if (colisionBoton(width/2, height*0.75+60, 200, 40)) {
       estado = 0;  // vuelve a pantalla de inicio
     }
-  } else if (estado >= 1 && estado <= 21) { //durante la historia
+  } else if (estado >= 1 && estado <= 20) { //durante la historia
   
     //se hace esto porque puede haber 1 o dos botones
     if (textos[estado].opciones[0] === textos[estado].opciones[1]) {

@@ -1,3 +1,4 @@
+//Video explicativo: https://www.youtube.com/watch?v=fFhag9iDNrU
 let juego;
 let judadorImg, enemigoImg, medallaImg, disparoImg, fondoImg, disparoSonido, fuentePixel;
 

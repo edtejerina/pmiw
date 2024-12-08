@@ -1,0 +1,20 @@
+Ralph está en su juego como cualquier otro día
+Ralph se da cuenta que quiere ser un héroe
+¿Quieres que Ralph busque una medalla de héroe?
+Ralph se va a buscar una medalla en otros juegos
+Ralph sigue siendo villano en su juego
+¿Decides entrar a Hero's Duty?
+Ralph llega a Hero's Duty donde hay una medalla de héroe, pero es muy peligroso
+Ralph decide entrar a Sugar Rush
+¿Enfrentas el peligro para conseguir la medalla?
+En Sugar Rush, Ralph conoce a Vanellope, una niña que también quiere ser aceptada
+Ralph lucha contra los enemigos
+Ralph se asusta y vuelve a su juego sin la medalla
+Gana y consigue la medalla|Siguiente
+Accidentalmente cae en Sugar Rush, un juego de carreras
+Vanellope le pide ayuda para competir en una carrera
+¿Ayudas a Vanellope a ganar la carrera?
+Ralph ayuda a Vanellope a construir su coche de carreras
+Ralph no la ayuda y Vanellope no puede correr
+Vanellope gana la carrera y Ralph obtiene su medalla
+Ralph obtiene su medalla, pero Vanellope nunca logra su sueño
